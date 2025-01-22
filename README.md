@@ -1,6 +1,6 @@
 # Basic CRUD Health App
 
-A basic app I made during CSE-4550 Software Engineering class
+A basic app I helped make during CSE-4550 Software Engineering class
 
 ## Purpose of the app
 
