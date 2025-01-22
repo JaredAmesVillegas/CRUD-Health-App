@@ -13,3 +13,7 @@ I specifically contributed on creating the graph aspect of this project, using a
 ## Why was this uploaded
 
 I uploaded this to at least remind myself I actually worked on a group project and for any prospect employers to check my skills  
+
+## Dependencies
+
+Located in Package.json, includes Ionic Framework (https://ionicframework.com) as well as angular dependencies and firebase dependencies.
